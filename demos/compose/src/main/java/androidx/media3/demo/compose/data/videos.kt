@@ -17,6 +17,9 @@ package androidx.media3.demo.compose.data
 
 val videos =
   listOf(
+    "https://demo.unified-streaming.com/k8s/features/stable/no-handler-origin/tears-of-steel/tears-of-steel-trickplay.m3u8",
+    "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    "https://demo.unified-streaming.com/k8s/features/stable/no-handler-origin/tears-of-steel/tears-of-steel-trickplay.mpd",
     "https://html5demos.com/assets/dizzy.mp4",
     "https://storage.googleapis.com/exoplayer-test-media-0/shortform_2.mp4",
     "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-vp9-360.webm",
